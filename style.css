@@ -1,0 +1,51 @@
+ @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    
+
+ /* /* background-color: #000; */
+.container{
+    height: 100px;
+    width: 500px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+ .red{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(222, 131, 131);
+ }
+ .blue{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(75, 48, 232);
+ }
+ .green{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(91, 236, 43);
+ }
+ .yellow{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(224, 236, 113);
+ }
+.orange{  height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(250, 142, 0);
+ 
+
+} 
